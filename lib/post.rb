@@ -5,4 +5,4 @@ class Post
     @title = title
   end
 
-end  
+end
